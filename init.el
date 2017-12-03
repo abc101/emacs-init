@@ -27,7 +27,7 @@
 (add-to-list 'load-path "~/.emacs.d/dl/")
 
 ;; default directory
-(setq default-directory "~/Wokspace")
+(setq default-directory "~/Workspace")
 
 ;; ido
 (require 'ido)
