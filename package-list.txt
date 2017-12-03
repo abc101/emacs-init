@@ -1,0 +1,9 @@
+package-activated-list is a variable defined in ‘package.el’.
+Its value is
+(ample-theme auto-complete auto-indent-mode coffee-mode col-highlight color-theme company-php ac-php-core direnv django-mode elpy company find-file-in-project git f go google-translate helm-google google helm-make helm helm-core highlight highlight-blocks highlight-indentation hl-line+ hl-spotlight hlinum ivy java-snippets json-mode json-reformat json-snatcher markdown-mode+ markdown-preview-mode markdown-mode oauth2 php+-mode php-auto-yasnippets php-mode pony-mode popup projectile pkg-info epl python python-django python-mode pyvenv resize-window sparql-mode sphinx-doc sphinx-mode ssh twig-mode uuidgen virtualenv virtualenvwrapper vline web s dash web-beautify web-mode web-server websocket windresize windsize with-editor async xcscope xterm-color yasnippet ztree)
+
+
+  This variable may be risky if used as a file-local variable.
+
+Documentation:
+List of the names of currently activated packages.
